@@ -144,8 +144,8 @@ class Game {
 }
 
 // ** Create 2 players using the player class **
-let player1 = new Player('you', 100, 15)
-let player2 = new Player('friend', 100, 15)
+let player1 = new Player('Player 1', 100, 15)
+let player2 = new Player('Player 2', 100, 15)
 
 
 // ** Save original Player Health in order to reset **
